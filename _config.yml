@@ -3,7 +3,7 @@
 
 title: 计算机辅助翻译与技术传播大赛培训
 url: "https://training.cattc-contest.org/"
-baseurl: "cattc-training"
+baseurl:
 google_analytics_key: UA-45957014-1
 disqus_shortname:
 newsletter_action:
