@@ -3,14 +3,14 @@
 
 title: 计算机辅助翻译与技术传播大赛培训
 url: "https://training.cattc-contest.org/"
-baseurl:
-google_analytics_key:
+baseurl: "cattc-training"
+google_analytics_key: UA-45957014-1
 disqus_shortname:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: 大赛培训官网
 author:
   name:
   email:
