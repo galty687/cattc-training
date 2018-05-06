@@ -1,10 +1,10 @@
 ---
 date: 2017-01-15
-title: Client editable Jekyll sites
+title: restructuredText
 video_id: _iH8f5alzWA
 description: Have non-technical people update Jekyll sites
 categories:
-  - deployment
+  - 写作工具
 resources:
   - name: Source code
     link: https://github.com/CloudCannon/creative-jekyll-theme/
